@@ -1,5 +1,5 @@
 
-# Grocery Management System
+# Grocery Management System(Python)
 
 ## Description
 The Grocery Management System is a Python application that allows users to manage their grocery shopping effectively. It features a user-friendly interface for viewing grocery items, adding them to a cart, and calculating the total bill.
